@@ -100,7 +100,7 @@
 
           <div class="col-lg-6 col-lx-4">
             <div class="shipping-info">
-              <h4 class="text-center pb-4">INFORMASI PENGIRIMAN</h4>
+              <h4 class="text-center pb-4">INFORMASI PEMESANAN</h4>
               <table class="table">
                     <tr class="">
                         <td>Nama Lengkap</td>
